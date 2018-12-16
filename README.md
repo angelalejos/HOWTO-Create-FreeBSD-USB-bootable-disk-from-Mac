@@ -2,7 +2,7 @@ Purpose:
 The purpose of this HOWTO is to teach inexperienced users on how to create a USB bootable disk from a Apple Macintosh computer.
 
 Assumption:
-You are running OSX Mountain Lion
+You are running OSX 
 
 Steps:
 Step 1:
@@ -36,7 +36,7 @@ Code:
 sudo diskutil umount /dev/disk1s1
 
 Step 9:
-Now, I'm assuming you copied your "FreeBSD-10.0-RELEASE-amd64-memstick.img" file to your desktop. In the terminal write the following:
+Now, I'm assuming you copied your "FreeBSD-{version}-RELEASE-amd64-memstick.img" file to your desktop. In the terminal write the following:
 Code:
 /~Desktop
 

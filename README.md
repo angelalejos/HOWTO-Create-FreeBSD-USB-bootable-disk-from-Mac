@@ -1,4 +1,4 @@
-Purpose:
+# Purpose:
 The purpose of this HOWTO is to teach inexperienced users on how to create a USB bootable disk from a Apple Macintosh computer.
 
 Assumption:
